@@ -1,0 +1,167 @@
+ID,Name,Type 1,Evolution
+63,Abra,Psychic,64
+142,Aerodactyl,Rock,142-mega
+142-mega,AerodactylMega Aerodactyl,Rock,
+65,Alakazam,Psychic,65-mega
+65-mega,AlakazamMega Alakazam,Psychic,
+24,Arbok,Poison,
+59,Arcanine,Fire,
+144,Articuno,Ice,
+15,Beedrill,Bug,15-mega
+15-mega,BeedrillMega Beedrill,Bug,
+69,Bellsprout,Grass,70
+9,Blastoise,Water,9-mega
+9-mega,BlastoiseMega Blastoise,Water,
+1,Bulbasaur,Grass,2
+12,Butterfree,Bug,
+10,Caterpie,Bug,11
+113,Chansey,Normal,
+6,Charizard,Fire,"6-mega-x,6-mega-y"
+6-mega-x,CharizardMega Charizard X,Fire,
+6-mega-y,CharizardMega Charizard Y,Fire,
+4,Charmander,Fire,5
+5,Charmeleon,Fire,6
+36,Clefable,Fairy,
+35,Clefairy,Fairy,36
+91,Cloyster,Water,
+104,Cubone,Ground,105
+87,Dewgong,Water,
+50,Diglett,Ground,51
+132,Ditto,Normal,
+85,Dodrio,Normal,
+84,Doduo,Normal,85
+148,Dragonair,Dragon,149
+149,Dragonite,Dragon,
+147,Dratini,Dragon,148
+96,Drowzee,Psychic,97
+51,Dugtrio,Ground,
+133,Eevee,Normal,"134,135,136"
+23,Ekans,Poison,24
+125,Electabuzz,Electric,
+101,Electrode,Electric,
+102,Exeggcute,Grass,103
+103,Exeggutor,Grass,
+83,Farfetch'd,Normal,
+22,Fearow,Normal,
+136,Flareon,Fire,
+92,Gastly,Ghost,93
+94,Gengar,Ghost,94-mega
+94-mega,GengarMega Gengar,Ghost,
+74,Geodude,Rock,75
+44,Gloom,Grass,45
+42,Golbat,Poison,
+118,Goldeen,Water,119
+55,Golduck,Water,
+76,Golem,Rock,
+75,Graveler,Rock,76
+88,Grimer,Poison,89
+58,Growlithe,Fire,59
+130,Gyarados,Water,130-mega
+130-mega,GyaradosMega Gyarados,Water,
+93,Haunter,Ghost,94
+107,Hitmonchan,Fighting,
+106,Hitmonlee,Fighting,107
+116,Horsea,Water,117
+97,Hypno,Psychic,
+2,Ivysaur,Grass,3
+39,Jigglypuff,Normal,40
+135,Jolteon,Electric,
+124,Jynx,Ice,
+140,Kabuto,Rock,141
+141,Kabutops,Rock,
+64,Kadabra,Psychic,65
+14,Kakuna,Bug,15
+115,Kangaskhan,Normal,115-mega
+115-mega,KangaskhanMega Kangaskhan,Normal,
+99,Kingler,Water,
+109,Koffing,Poison,110
+98,Krabby,Water,99
+131,Lapras,Water,
+108,Lickitung,Normal,
+68,Machamp,Fighting,
+67,Machoke,Fighting,68
+66,Machop,Fighting,67
+129,Magikarp,Water,130
+126,Magmar,Fire,
+81,Magnemite,Electric,82
+82,Magneton,Electric,
+56,Mankey,Fighting,57
+105,Marowak,Ground,
+52,Meowth,Normal,53
+11,Metapod,Bug,12
+151,Mew,Psychic,
+150,Mewtwo,Psychic,"150-mega-x,150-mega-y"
+150-mega-x,MewtwoMega Mewtwo X,Psychic,
+150-mega-y,MewtwoMega Mewtwo Y,Psychic,
+146,Moltres,Fire,
+122,Mr. Mime,Psychic,
+89,Muk,Poison,
+34,Nidoking,Poison,
+31,Nidoqueen,Poison,
+29,Nidoran♀,Poison,30
+32,Nidoran♂,Poison,33
+30,Nidorina,Poison,31
+33,Nidorino,Poison,34
+38,Ninetales,Fire,
+43,Oddish,Grass,44
+138,Omanyte,Rock,139
+139,Omastar,Rock,
+95,Onix,Rock,
+46,Paras,Bug,47
+47,Parasect,Bug,
+53,Persian,Normal,
+18,Pidgeot,Normal,18-mega
+18-mega,PidgeotMega Pidgeot,Normal,
+17,Pidgeotto,Normal,18
+16,Pidgey,Normal,17
+25,Pikachu,Electric,26
+127,Pinsir,Bug,127-mega
+127-mega,PinsirMega Pinsir,Bug,
+60,Poliwag,Water,61
+61,Poliwhirl,Water,62
+62,Poliwrath,Water,
+77,Ponyta,Fire,78
+137,Porygon,Normal,
+57,Primeape,Fighting,
+54,Psyduck,Water,55
+26,Raichu,Electric,
+78,Rapidash,Fire,
+20,Raticate,Normal,
+19,Rattata,Normal,20
+112,Rhydon,Ground,
+111,Rhyhorn,Ground,112
+27,Sandshrew,Ground,28
+28,Sandslash,Ground,
+123,Scyther,Bug,
+117,Seadra,Water,
+119,Seaking,Water,
+86,Seel,Water,87
+90,Shellder,Water,91
+80,Slowbro,Water,80-mega
+80-mega,SlowbroMega Slowbro,Water,
+79,Slowpoke,Water,80
+143,Snorlax,Normal,
+21,Spearow,Normal,22
+7,Squirtle,Water,8
+121,Starmie,Water,
+120,Staryu,Water,121
+114,Tangela,Grass,
+128,Tauros,Normal,
+72,Tentacool,Water,73
+73,Tentacruel,Water,
+134,Vaporeon,Water,
+49,Venomoth,Bug,
+48,Venonat,Bug,49
+3,Venusaur,Grass,3-mega
+3-mega,VenusaurMega Venusaur,Grass,
+71,Victreebel,Grass,
+45,Vileplume,Grass,
+100,Voltorb,Electric,101
+37,Vulpix,Fire,38
+8,Wartortle,Water,9
+13,Weedle,Bug,14
+70,Weepinbell,Grass,71
+110,Weezing,Poison,
+40,Wigglytuff,Normal,
+145,Zapdos,Electric,
+41,Zubat,Poison,42
